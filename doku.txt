@@ -1,1 +1,3 @@
 1. Das Repository durch den Link klonen um ein lokales Repository zu haben
+2. Eine Datei hinzufügen und adden um anschließend zu commiten "C0"
+3. Eine Datei hinzufügen oder verändern und adden um anschließend zu commiten "C1"
