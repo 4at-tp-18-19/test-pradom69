@@ -1,0 +1,1 @@
+1. Das Repository durch den Link klonen um ein lokales Repository zu haben
